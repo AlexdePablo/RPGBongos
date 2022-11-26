@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40a6239d22c5c9047a93d9dd0266039d, type: 3}
+  m_Name: "Ca\xF1on de cristal"
+  m_EditorClassIdentifier: 
+  nom: "Ca\xF1on"
+  salue: {fileID: 0}
+  uoe: {fileID: 11400000, guid: 69fc45ba21238fe4b9f772e2a6b14f2b, type: 2}
+  atkFisico: 20
+  atkMagico: 20
+  usos: 1

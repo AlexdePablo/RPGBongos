@@ -1,0 +1,672 @@
+fileFormatVersion: 2
+guid: e25843789860cff48bbfe971313cd221
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hextilesets2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 506
+        width: 121
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d584b765f61cc6d4c89de80f48b1242d
+      internalID: 162301742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hextilesets2_1
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 506
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e3de0562cd30246a083814be2bb47d
+      internalID: -865107701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hextilesets2_2
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 506
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffec766df5f43a04b8736ace0c6781ec
+      internalID: -1150340597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hextilesets2_3
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 506
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3792ae127a77baf4baa3f32485f4c1d9
+      internalID: -120555257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hextilesets2_4
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 506
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c40b8e964384a2a49bda2d235e34ac4f
+      internalID: 261778392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hextilesets2_5
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 506
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e95533a6f64f100439750aa138937b4e
+      internalID: -511176179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hextilesets2_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 376.6
+        width: 141.66667
+        height: 125.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a6f9dc5276b46469cd666d0f8982fc
+      internalID: 415693176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hextilesets2_7
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 376.6
+        width: 141.66667
+        height: 125.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc42f24fdce187f40a6349293b9f67b6
+      internalID: -370665366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hextilesets2_8
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 376.6
+        width: 141.66667
+        height: 125.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d0691f1d7d1cf45ad3f0beec04000d
+      internalID: 21929796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hextilesets2_9
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 376.6
+        width: 141.66667
+        height: 125.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d05c3ac56adc5084d9f1ad52981f1edf
+      internalID: -1700093361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hextilesets2_10
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 376.6
+        width: 141.66667
+        height: 125.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f761d2f513e2e834ead25b7f4ee2cb85
+      internalID: 760461824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hextilesets2_11
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 376.6
+        width: 141.66667
+        height: 125.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8a0cb127a581144e8bcbce9bf02bad7
+      internalID: 1722602275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hextilesets2_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 251.6
+        width: 141.66667
+        height: 125.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee5621988febd154db7f6cbc157a1679
+      internalID: -1735148418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hextilesets2_13
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 251.6
+        width: 141.66667
+        height: 125.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef58dbc5a783fd2428badca6dda62594
+      internalID: -658010037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hextilesets2_14
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 251.6
+        width: 141.66667
+        height: 125.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c49a5c348d9182489e7d1f222d68752
+      internalID: -536863754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hextilesets2_15
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 251.6
+        width: 141.66667
+        height: 125.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7701fca772dbe8d41883d2c5a5735938
+      internalID: -1598016829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hextilesets2_16
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 251.6
+        width: 141.66667
+        height: 125.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76c63d8e1aaa0ac4fa2a2e2868c9f6dc
+      internalID: -2077687841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hextilesets2_17
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 251.6
+        width: 141.66667
+        height: 125.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582272fd94767ea4abfae042b79fccce
+      internalID: 628407505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hextilesets2_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 126.6
+        width: 141.66667
+        height: 125.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 406d9ea0934bb2746a9ad90f3204fe19
+      internalID: 1704380128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hextilesets2_19
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 126.6
+        width: 141.66667
+        height: 125.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f43576ff5df50d34797f27b04f3aeb5e
+      internalID: 1501466689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hextilesets2_20
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 126.6
+        width: 141.66667
+        height: 125.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a9eca692a8eddf41a3f5c8b43703e34
+      internalID: 1275191917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hextilesets2_21
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 126.6
+        width: 141.66667
+        height: 125.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25fdbcc4cebc2e4ea8936987f60edd7
+      internalID: -293477460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hextilesets2_22
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 126.6
+        width: 141.66667
+        height: 125.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf3503239894e143a7a821062f28644
+      internalID: -1922626964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hextilesets2_23
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 126.6
+        width: 141.66667
+        height: 125.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eb4ec9e501e625429e0d352b71cb22e
+      internalID: 196349429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hextilesets2_24
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 1.5999985
+        width: 141.66667
+        height: 125.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7773e312f663854d9be10f527e0f6f7
+      internalID: -1776541960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      hextilesets2_8: 21929796
+      hextilesets2_0: 162301742
+      hextilesets2_15: -1598016829
+      hextilesets2_14: -536863754
+      hextilesets2_5: -511176179
+      hextilesets2_19: 1501466689
+      hextilesets2_7: -370665366
+      hextilesets2_9: -1700093361
+      hextilesets2_20: 1275191917
+      hextilesets2_22: -1922626964
+      hextilesets2_10: 760461824
+      hextilesets2_21: -293477460
+      hextilesets2_13: -658010037
+      hextilesets2_23: 196349429
+      hextilesets2_17: 628407505
+      hextilesets2_2: -1150340597
+      hextilesets2_6: 415693176
+      hextilesets2_1: -865107701
+      hextilesets2_18: 1704380128
+      hextilesets2_4: 261778392
+      hextilesets2_16: -2077687841
+      hextilesets2_11: 1722602275
+      hextilesets2_12: -1735148418
+      hextilesets2_3: -120555257
+      hextilesets2_24: -1776541960
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
